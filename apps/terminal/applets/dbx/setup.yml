@@ -1,0 +1,6 @@
+type: zip # exe, zip, manual
+source: jms:///download/applets/DBX-0.6.71-agents-0.2.164-offline-windows-x64.zip
+arguments:
+destination: C:\Program Files
+program: C:\Program Files\DBX\DBX.exe
+md5: 689e6b1af4e7ef7b3ad70fa773fc4876
